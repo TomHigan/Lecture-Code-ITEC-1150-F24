@@ -1,5 +1,5 @@
 #using input to have the user enter data
-name = input('Please enter your name:')
+name = input('What is your name:')
 print('Hello, ' + name)
 
 letters = len(name)
