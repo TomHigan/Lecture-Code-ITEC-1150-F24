@@ -1,4 +1,4 @@
-#each student took 3 quizes
+#each student took 3 quizzes
 quiz_scores = {
     'Al': [8,9,15],
     'Bettina': [6,10,10],
